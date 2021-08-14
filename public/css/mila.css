@@ -1,0 +1,87 @@
+.text-green {
+    color: #4f9085 !important;
+}
+
+.b-green {
+    background-color: #4f9085
+}
+
+.b-white {
+    background-color: white
+}
+
+.pill {
+    color: green;
+    padding: 8px;
+    background: #fff;
+    text-align: center;
+    width: 30px;
+    height: 30px;
+    font-size: 16px;
+    border-radius: 15px;
+    line-height: 14px;
+    display: inline-block;
+    margin-right: 12px;
+    font-weight: bold;
+}
+
+.font-15 {
+    font-size: 1.5rem;
+    vertical-align: middle;
+    text-shadow: 0 0 17px #f3f3f3;
+    color: #f3f3f3;
+    font-weight: bold;
+}
+
+.pt-10 {
+    padding-top: 7rem !important;
+}
+
+.py-10 {
+    padding-top: 7rem !important;
+    padding-bottom: 7rem !important;
+}
+
+.back-to-top {
+    position: fixed;
+    display: none;
+    background: #3d8222a6;
+    color: #fff;
+    width: 44px;
+    height: 44px;
+    text-align: center;
+    line-height: 1;
+    font-size: 16px;
+    border-radius: 50%;
+    right: 65px;
+    bottom: 25px;
+    transition: background 0.5s;
+    z-index: 11;
+}
+
+.back-to-top i {
+    padding-top: 12px;
+    color: #fff;
+}
+
+.whatsApp-btn {
+    position: fixed;
+    /* display: none; */
+    background: #3d8222a6;
+    color: white;
+    width: 44px;
+    height: 44px;
+    text-align: center;
+    line-height: 1;
+    font-size: 20px;
+    border-radius: 50%;
+    right: 15px;
+    bottom: 25px;
+    transition: background 0.5s;
+    z-index: 11;
+}
+
+.whatsApp-btn i {
+    padding-top: 12px;
+    color: #fff;
+}

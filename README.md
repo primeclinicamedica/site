@@ -1,3 +1,1 @@
-# Prime Clínica Médica
-
-# Versão inicial
+# Home Prime Clínica Médica
